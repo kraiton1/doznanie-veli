@@ -1,5 +1,16 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://kraiton1.github.io/doznanie-veli/sitemap.xml</loc>
-	</url>
+<?xml version="1.0" encoding="utf-8"?>
+<!--created with www.site-analyzer.ru-->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://kraiton1.github.io/doznanie-veli/</loc>
+    <lastmod>2025-10-20T15:00:11+00:00</lastmod>
+    <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://kraiton1.github.io/doznanie-veli/index.html</loc>
+    <lastmod>2025-10-20T15:00:11+00:00</lastmod>
+    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+  </url>
 </urlset>
